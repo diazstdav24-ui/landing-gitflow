@@ -25,6 +25,17 @@ body {
     text-decoration: none;
 }
 
+.btn {
+    background: #eee;
+    border-radius: 6px;
+}
+
+.btn:hover {
+    opacity: 0.85;
+}
+
+
+
 .features {
     padding-left: 18px;
     margin: 0;
